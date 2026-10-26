@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="116" viewBox="0 0 480 116" role="img" aria-labelledby="title">
+  <title id="title">Oleksandr Kovalchuk — Full-Stack Developer</title>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A5B4FC"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .name { font-size: 46px; font-weight: 700; letter-spacing: -1.2px; fill: #F0F6FC; }
+    .role { font-size: 24px; font-weight: 600; fill: url(#accent); }
+    .cursor { fill: #67E8F9; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { fill-opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <text class="name" x="1" y="52">Oleksandr Kovalchuk</text>
+  <text class="role" x="2" y="96">Full-Stack Developer<tspan class="cursor"> _</tspan></text>
+</svg>
