@@ -3,19 +3,19 @@
   <img src="assets/header-light.svg" width="480" alt="Oleksandr Kovalchuk — Full-Stack Developer">
 </picture>
 
-Based in Ternopil, Ukraine, I build web and mobile apps end to end: React and Next.js on the front, Node.js and PostgreSQL behind them, React Native and Expo on the phone. I care most about performance, clean architecture and type safety.
+I build web and mobile apps end to end: React and Next.js on the web, React Native and Expo on mobile, Express and NestJS on the backend. I care most about performance, clean architecture and type safety.
 
-**3+** years · **15+** projects · **310** Codewars kata · **39** LeetCode problems
+**3+** years · **20+** projects · **310** Codewars kata · **39** LeetCode problems
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cpostgres%2Cprisma%2Ctailwind%2Credux%2Cvitest%2Cdocker%2Cgit&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cpostgres%2Cprisma%2Ctailwind%2Credux%2Cvitest%2Cdocker%2Cgit&theme=light" height="40" alt="TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma, Tailwind CSS, Redux, Vitest, Docker, Git">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cnestjs%2Cpostgres%2Cprisma%2Ctailwind%2Credux%2Cvitest%2Cdocker%2Cgit&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cnestjs%2Cpostgres%2Cprisma%2Ctailwind%2Credux%2Cvitest%2Cdocker%2Cgit&theme=light" height="40" alt="TypeScript, React, Next.js, Node.js, Express, NestJS, PostgreSQL, Prisma, Tailwind CSS, Redux, Vitest, Docker, Git">
 </picture>
 
 ### Now
 
 - Building web and mobile UIs at **Peppernode** with Next.js, React Native and TypeScript on a Feature-Sliced Design codebase.
-- Exploring spec-driven development with Claude Code, its plugins and skills.
+- Agentic coding with Claude Code: spec-driven development, plugins and skills.
 
 ### Selected work
 
