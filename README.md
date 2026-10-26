@@ -3,16 +3,25 @@
   <img src="assets/header-light.svg" width="480" alt="Oleksandr Kovalchuk — Full-Stack Developer">
 </picture>
 
-Frontend Developer at **Peppernode** · Ternopil, Ukraine
+Based in Ternopil, Ukraine, I build web and mobile apps end to end: React and Next.js on the front, Node.js and PostgreSQL behind them, React Native and Expo on the phone. I care most about performance, clean architecture and type safety.
 
-I build web and mobile apps end to end: React and Next.js on the front, Node.js and PostgreSQL behind them, React Native and Expo on the phone. Three years in, I care most about performance, clean architecture and type safety.
+**3+** years · **15+** projects · **310** Codewars kata · **39** LeetCode problems
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cpostgres%2Cprisma%2Ctailwind%2Credux%2Cvitest%2Cdocker%2Cgit&theme=dark">
   <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cpostgres%2Cprisma%2Ctailwind%2Credux%2Cvitest%2Cdocker%2Cgit&theme=light" height="40" alt="TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Prisma, Tailwind CSS, Redux, Vitest, Docker, Git">
 </picture>
 
+### Now
+
+- Building web and mobile UIs at **Peppernode** with Next.js, React Native and TypeScript on a Feature-Sliced Design codebase.
+- Exploring spec-driven development with Claude Code, its plugins and skills.
+
 ### Selected work
+
+**[Expense Tracker](https://github.com/oleksandr-kovalchuk/expense-tracker)**  
+Personal finance app for iOS and Android that keeps all data on the device, with charts, custom categories and two languages.  
+<sub>Expo · React Native · SQLite · Drizzle · Zustand · NativeWind</sub>
 
 **[Full-Stack Mini Blog](https://github.com/oleksandr-kovalchuk/mini-blog)** · [live ↗](https://mini-blog-frontend-fxzy.onrender.com)  
 Blog platform with JWT auth and full CRUD for posts and profiles.  
@@ -29,6 +38,11 @@ E-commerce storefront with product pages, a cart and favorites, built from a Fig
 **[Dynamic List of Posts](https://github.com/oleksandr-kovalchuk/vue-dynamic-posts)** · [live ↗](https://oleksandr-kovalchuk.github.io/vue-dynamic-posts/)  
 Posts and comments with sign-in and full CRUD.  
 <sub>Vue 3 · Vite · Axios · Bulma</sub>
+
+### Experience
+
+**Frontend Developer** · Peppernode · <sub>09/2025 – now</sub>  
+**Full-Stack Developer** · Self-employed · <sub>01/2024 – 09/2025</sub>
 
 ### Contact
 
