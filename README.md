@@ -32,4 +32,4 @@ Posts and comments with sign-in and full CRUD.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/oleksandr-kovalchuk-5ab0772b8/)
+[LinkedIn](https://www.linkedin.com/in/oleksandr-kovalchuk-5ab0772b8/) · [Telegram](https://t.me/Oleksandr_Kovalchuk_8) · [kov280396@gmail.com](mailto:kov280396@gmail.com)
