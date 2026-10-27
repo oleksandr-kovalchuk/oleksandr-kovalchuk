@@ -5,17 +5,10 @@
 
 I build web and mobile apps end to end: React and Next.js on the web, React Native and Expo on mobile, Express and NestJS on the backend, or Supabase and Firebase when a managed backend fits better. I care most about performance, clean architecture and type safety.
 
-**3+** years · **20+** projects · **310** Codewars kata · **39** LeetCode problems
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cnestjs%2Cpostgres%2Cprisma%2Csupabase%2Cfirebase%2Ctailwind%2Credux%2Cvitest%2Cdocker%2Cgit&theme=dark">
   <img src="https://skillicons.dev/icons?i=ts%2Creact%2Cnextjs%2Cnodejs%2Cexpress%2Cnestjs%2Cpostgres%2Cprisma%2Csupabase%2Cfirebase%2Ctailwind%2Credux%2Cvitest%2Cdocker%2Cgit&theme=light" height="40" alt="TypeScript, React, Next.js, Node.js, Express, NestJS, PostgreSQL, Prisma, Supabase, Firebase, Tailwind CSS, Redux, Vitest, Docker, Git">
 </picture>
-
-### Now
-
-- Building web and mobile UIs at **Peppernode** with Next.js, React Native and TypeScript on a Feature-Sliced Design codebase.
-- Agentic coding with Claude Code: spec-driven development, plugins and skills.
 
 ### Selected work
 
@@ -38,11 +31,6 @@ E-commerce storefront with product pages, a cart and favorites, built from a Fig
 **[Dynamic List of Posts](https://github.com/oleksandr-kovalchuk/vue-dynamic-posts)** · [live ↗](https://oleksandr-kovalchuk.github.io/vue-dynamic-posts/)  
 Posts and comments with sign-in and full CRUD.  
 <sub>Vue 3 · Vite · Axios · Bulma</sub>
-
-### Experience
-
-**Frontend Developer** · Peppernode · <sub>09/2025 – now</sub>  
-**Full-Stack Developer** · Self-employed · <sub>01/2024 – 09/2025</sub>
 
 ### Contact
 
